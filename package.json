@@ -67,7 +67,7 @@
     "@babel/eslint-parser": "^7.27.5",
     "autoprefixer": "^10.4.21",
     "babel-eslint": "^10.1.0",
-    "eslint": "^9.29.0",
+    "eslint": "^8.57.1",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
