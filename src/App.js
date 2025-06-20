@@ -4,7 +4,7 @@ import { Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Navbar from "./components/common/Navbar"
 import OpenRoute from "./components/core/Auth/OpenRoute"
-import { useNavigate } from "react-router-dom";
+//import { useNavigate } from "react-router-dom";
 import Login from "./pages/Login"
 import Signup from "./pages/Signup"
 import ForgotPassword from "./pages/ForgotPassword";
@@ -20,7 +20,7 @@ import Error from "./pages/Error"
 import Settings from "./components/core/Dashboard/Settings";
 //import { useDispatch, useSelector } from "react-redux";
 import { useSelector } from 'react-redux'; 
-import { useDispatch } from 'react-redux'; 
+//import { useDispatch } from 'react-redux'; 
 import EnrolledCourses from "./components/core/Dashboard/EnrolledCourses";
 import Cart from "./components/core/Dashboard/Cart";
 import { ACCOUNT_TYPE } from "./utils/constants";
@@ -34,7 +34,7 @@ import VideoDetails from "./components/core/ViewCourse/VideoDetails";
 import Instructor from "./components/core/Dashboard/Instructor"
 // import toast from "react-hot-toast";
 // import picture from '../src/assets/Images/Photo.jpg'
-import { useEffect, useState } from "react";
+//import { useEffect, useState } from "react";
 
 function App() {
 
